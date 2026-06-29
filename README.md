@@ -1,5 +1,6 @@
 # CS-320-Portfolio
 Reflection
+
 How can I ensure that my code, program, or software is functional and secure?
 
 I can ensure my code is functional by writing unit tests, testing different input values, and checking that the program meets each requirement. In Project One, I used JUnit tests to verify that contacts could be created, updated, and deleted correctly. I also tested invalid inputs, such as null values or values that were too long, to make sure the program handled errors properly. To keep software secure, I should validate user input, limit what users are allowed to change, and avoid allowing invalid or unexpected data into the program.
